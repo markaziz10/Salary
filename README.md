@@ -1,0 +1,2 @@
+# Salary
+Salary prediction project
